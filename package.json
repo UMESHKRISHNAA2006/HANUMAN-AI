@@ -9,7 +9,6 @@
     "test": "vitest --run",
     "format.fix": "prettier --write .",
     "typecheck": "tsc",
-    "postinstall": ""
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
